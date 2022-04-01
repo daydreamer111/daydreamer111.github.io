@@ -1,0 +1,27 @@
+h1 {
+    background-color:cornflowerblue;
+    color:black;
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    font-size: large;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.paragraph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
