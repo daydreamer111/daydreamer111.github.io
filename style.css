@@ -12,6 +12,13 @@ body {
     color: white;
 }
 
+button {
+    font-size: large;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:cornflowerblue;
+}
 .center {
     display: block;
     margin-left: auto;
